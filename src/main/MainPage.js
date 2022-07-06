@@ -17,8 +17,8 @@ class MainPage extends Component {
             <Container>
                 <Page>
                     <Page.Header
-                        title="Steganography - Cryptography Project"
-                        subTitle="Created by: Rebaz Farid - Ahmed safaa"
+                        title="Steganography - A Cryptographic Project - Computer Security"
+                        subTitle="Created by: Daro Karim - Braw Aras"
                     />
                     <Nav>
                         <Nav.Item icon="globe" active={navActive===1} onClick={()=>this.setState({navActive: 1})}>Encode</Nav.Item>
