@@ -1,6 +1,6 @@
 This Project was made as a Part of Cryptography Course Studied in the Computer Science (Computer Network & Security) curriculum <br />
 The course was Taught by Dr. Mustafa <br />
-The Project was Created as a Team Effort by Rebaz Farid & Ahmed Safaa <br />
+The Project was Created as a Team Effort by Daro Karim & Braw Aras <br />
 
 
 
